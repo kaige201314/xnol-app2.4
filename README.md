@@ -16,6 +16,7 @@ xnol-app2.4 automation test
 8、TestCase2目录：用于存放未实现的测试用例；
 
 二、测试用例说明：
+`
 #：test_case001——》老用户登录——》退出
 
 #：test_case001——》注册新用户
@@ -53,3 +54,4 @@ xnol-app2.4 automation test
 #：test_case017——》
     
 #：test_case018——》
+`
